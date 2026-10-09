@@ -1,0 +1,1 @@
+var e={date:`2026-10-06`,puzzle:{start:`PINK`,goal:`DUNE`,best:8,path:[`PINK`,`PINT`,`PINE`,`DUNE`]},need:`letter`,tricky:!0,inkPots:{pots:[`DINE`,`RINK`,`TUNE`],best:8,walk:[`PINK`,`PINT`,`PINE`,`DUNE`]},onRoute:{DUNE:8,PINE:5,PINK:0,PINT:2}};export{e as default};
